@@ -1,3 +1,6 @@
+//We were having issues with our sensor. That's why we have to change our source code.
+//So here's the modified source code.
+
 #include <LiquidCrystal.h>  
 #include <Adafruit_Sensor.h>
 #include <DHT.h>
