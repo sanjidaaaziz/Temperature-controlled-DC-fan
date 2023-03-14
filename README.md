@@ -1,4 +1,4 @@
-Temperature Controlled DC Fan using Arduino.
+# Temperature Controlled DC Fan using Arduino.
 
 This project targets the idea of controlling the speed of the fan based on the variation of temperature. Through this project we intended:
 1. To build a system to detect temperature of the room and execute the contrast of the current temperature.
